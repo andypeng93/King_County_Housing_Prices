@@ -24,11 +24,11 @@ Data can include house prices and features of houses such as zip code, number of
 
 
 #### Visual 1
-![graph1](./images/visual1.png)
-> Sentence about visualization.
+![graph1](./Image/zipcodes.png)
+> Box plot graph of Water Front View VS House Prices
 
 #### Visual 2
-![graph2](./images/visual2.png)
+![graph2](./mages/visual2.png)
 > Sentence about visualization.
 
 
