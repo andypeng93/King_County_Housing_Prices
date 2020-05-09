@@ -18,11 +18,9 @@ Data can include house prices and features of houses such as zip code, number of
 ## Methods
 - descriptive analysis
 - choices made
-- key relevant findings from exploritory data analysis for mod 1, will be more involved in future mod
+- key relevant findings from exploritory data analysis
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
 
 
 #### Visual 1
@@ -36,12 +34,18 @@ Data can include house prices and features of houses such as zip code, number of
 
 ## Recommendations:
 
-More of your own text here
+To summarize everything above, we created a model that manages to predict housing prices within a $80,000 range. We chose to explore the features waterfront view, zipcode and sqft_living. Below shows the exploration results from the code above.
+
+1) Houses with no waterfront view have a lower average in housing prices.
+
+2) Zipcodes around certain locations such as Mercer Island tend cost more than houses away from Mercer Island.
+
+3) The bigger the footage of the home is the more expensive the housing price is.
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+There are many features that we haven't considered. For example 
 
 
 ### For further information
