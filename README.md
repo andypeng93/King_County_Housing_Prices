@@ -59,7 +59,7 @@ There are many features that we haven't considered. For example
 ### For further information
 Please review the narrative of our analysis in [our jupyter notebook](./main_notebook.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
 
-For any additional questions, please contact **email, email, email)
+For any additional questions, please contact **andypeng93@gmail.com)
 
 
 ##### Repository Structure:
