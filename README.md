@@ -32,7 +32,7 @@ Data can include house prices and features of houses such as zip code, number of
 > Zip Code's Average Housing Prices
 
 #### Visual 3
-![graph3](./Image/Interactive Mapping3.png)
+![graph3](./Image/InteractiveMapping3.png)
 > Mapping of Zip Code's Average Housing Prices
 
 #### Visual 4
