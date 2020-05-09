@@ -24,12 +24,20 @@ Data can include house prices and features of houses such as zip code, number of
 
 
 #### Visual 1
-![graph1](./Image/zipcodes.png)
+![graph1](./Image/WaterFrontView.png)
 > Box plot graph of Water Front View VS House Prices
 
 #### Visual 2
-![graph2](./mages/visual2.png)
-> Sentence about visualization.
+![graph2](./Image/zipcodes.png)
+> Zip Code's Average Housing Prices
+
+#### Visual 3
+![graph3](./Image/Interactive Mapping3.png)
+> Mapping of Zip Code's Average Housing Prices
+
+#### Visual 4
+![graph4](./Image/SqftLivingPrice.png)
+> Footage of the house vs Housing Prices
 
 
 ## Recommendations:
@@ -38,7 +46,7 @@ To summarize everything above, we created a model that manages to predict housin
 
 1) Houses with no waterfront view have a lower average in housing prices.
 
-2) Zipcodes around certain locations such as Mercer Island tend cost more than houses away from Mercer Island.
+2) Zipcodes around certain locations such as Mercer Island tend to cost more than houses away from Mercer Island.
 
 3) The bigger the footage of the home is the more expensive the housing price is.
 
