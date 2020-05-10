@@ -57,7 +57,7 @@ There are many features that we haven't considered. For example
 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./main_notebook.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./Housing_Price.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
 
 For any additional questions, please contact **andypeng93@gmail.com)
 
@@ -69,7 +69,7 @@ Here is where you would describe the structure of your repoistory and its conten
 ```
 
 ├── README.md                       <- The top-level README for reviewers of this project.
-├── main_notebook.ipynb             <- narrative documentation of analysis in jupyter notebook
+├── Housing_Prices.ipynb             <- narrative documentation of analysis in jupyter notebook
 ├── presentation.pdf                <- pdf version of project presentation
 └── images
     └── images                          <- both sourced externally and generated from code
