@@ -57,7 +57,7 @@ There are many features that we haven't considered. For example schools in the a
 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./Housing_Price.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./Housing_Price.ipynb) or review our [presentation](./Module 2 – Housing Price Project Presentation with notes.pdf)
 
 For any additional questions, please contact **andypeng93@gmail.com)
 
