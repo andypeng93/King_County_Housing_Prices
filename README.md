@@ -53,7 +53,7 @@ To summarize everything above, we created a model that manages to predict housin
 
 ## Limitations & Next Steps
 
-There are many features that we haven't considered. For example 
+There are many features that we haven't considered. For example schools in the area, crime rate, time of sale and picture of the house.
 
 
 ### For further information
@@ -64,7 +64,7 @@ For any additional questions, please contact **andypeng93@gmail.com)
 
 ##### Repository Structure:
 
-Here is where you would describe the structure of your repoistory and its contents, for exampe:
+Here is where you would describe the structure of your repoistory and its contents, for example:
 
 ```
 
