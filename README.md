@@ -25,7 +25,7 @@ Data can include house prices and features of houses such as zip code, number of
 
 #### Visual 1
 ![graph1](./Image/WaterFrontView.png)
-> Box plot graph of Water Front View VS House Prices
+> Box plot graph of House Prices with and without Water Front View
 
 #### Visual 2
 ![graph2](./Image/zipcodes.png)
@@ -33,7 +33,7 @@ Data can include house prices and features of houses such as zip code, number of
 
 #### Visual 3
 ![graph3](./Image/InteractiveMapping3.png)
-> Mapping of Zip Code's Average Housing Prices
+> Interactive Mapping of Zip Code's Average Housing Prices
 
 #### Visual 4
 ![graph4](./Image/SqftLivingPrice.png)
@@ -53,7 +53,7 @@ To summarize everything above, we created a model that manages to predict housin
 
 ## Limitations & Next Steps
 
-There are many features that we haven't considered. For example schools in the area, crime rate, time of sale and picture of the house.
+Due to time constraint, there are many features that we haven't considered. For example schools in the area, crime rate, time of sale and picture of the house.
 
 
 ### For further information
