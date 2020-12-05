@@ -36,7 +36,7 @@ Data can include house prices and features of houses such as zip code, number of
 > Interactive Mapping of Zip Code's Average Housing Prices
 
 #### Visual 4
-![graph4](./Image/SqftLivingPrice.png)
+<img src=./Image/SqftLivingPrice.png width="800">
 > Footage of the house vs Housing Prices
 
 
