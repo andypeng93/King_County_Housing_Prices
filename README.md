@@ -48,7 +48,7 @@ To summarize everything above, we created a model that manages to predict housin
 
 2) Zipcodes around certain locations such as Mercer Island tend to cost more than houses away from Mercer Island.
 
-3) The bigger the footage of the home is the more expensive the housing price is.
+3) The larger the footage of the home is the more expensive the housing price is.
 
 
 ## Limitations & Next Steps
