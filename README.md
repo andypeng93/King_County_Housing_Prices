@@ -8,11 +8,11 @@ The contents of this repository detail an analysis of the module 2 project. This
 
 ### Business problem:
 
-I am tasked to investigate housing prices for a company that is focus on finding affordable family houses in the kings county area. For this project we will be using the Kings County Housing Sales dataset to investigate different features that might affect the housing prices. By using the kc_house_data.csv dataset we will be trying to find certain features that we should keep our eyes out to get the best prices for family houses.
+The task is to investigate housing prices for a company that focuses on finding affordable family houses in the Kings County area. For this project we will be using the Kings County Housing Sales dataset to investigate different features that might affect the housing prices. By using the kc_house_data.csv dataset we will be trying to find certain features that we should keep our eyes out to get the best prices for family houses.
 
 
 ### Data
-Data can include house prices and features of houses such as zip code, number of bedrooms, number of bathrooms, etc.
+Data includes house prices and features of houses such as zip code, number of bedrooms, number of bathrooms, etc.
 
 
 ## Methods
