@@ -18,6 +18,7 @@ Data includes house prices and features of houses such as zip code, number of be
 ## Methods
 - Descriptive Analysis
 - Choices Made
+- Modeling (Future work)
 - Key relevant findings from exploritory data analysis
 
 ## Results
