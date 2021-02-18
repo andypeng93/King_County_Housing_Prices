@@ -60,7 +60,7 @@ Due to time constraint, there are many features that we haven't considered. For 
 ### For further information
 Please review the narrative of our analysis in [our jupyter notebook](./Housing_Price.ipynb) or review our [presentation](Module2–Housing_Price_Project_Presentation_with_notes.pdf)
 
-For any additional questions, please contact andypeng93@gmail.com)
+For any additional questions, please contact andypeng93@gmail.com
 
 
 ##### Repository Structure:
