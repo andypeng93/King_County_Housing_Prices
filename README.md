@@ -1,5 +1,5 @@
 # Modeling King County House Prices
-## Flatiron Mod 2 Housing Price Project
+## Housing Price Project
 
 **Authors**: Andy Peng
 
