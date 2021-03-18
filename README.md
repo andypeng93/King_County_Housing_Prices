@@ -1,7 +1,7 @@
 # Modeling King County House Prices
 ## Housing Price Project
 
-**Authors**: Andy Peng
+**Author**: Andy Peng
 
 The contents of this repository detail an analysis of the module 2 project. This analysis is detailed in hopes of making the work accessible and replicable.
 
