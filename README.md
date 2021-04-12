@@ -54,7 +54,7 @@ To summarize everything above, we created a model that manages to predict housin
 
 ## Limitations & Next Steps
 
-Due to time constraint, there are many features that we haven't considered. For example schools in the area, crime rate, time of sale and picture of the house.
+Due to time constraint, there are many features that we haven't considered. For example schools in the area, crime rates, time of sales and picture of the house.
 
 
 ### For further information
