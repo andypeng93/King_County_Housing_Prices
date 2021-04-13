@@ -26,7 +26,7 @@ Data includes house prices and features of houses such as zip code, number of be
 
 #### Visual 1
 <img src=./Image/WaterFrontView.png width="770">
-> Box plot graph of House Prices with and without Water Front View
+> Box plot of House Prices with and without Water Front View
 
 #### Visual 2
 <img src=./Image/zipcodes.png width="800">
